@@ -22,3 +22,9 @@ The neural network performs well on the MNIST dataset with 96.46% accuracy on th
 Adding another hidden layer does not have a significant impact on the model performance, with 96.4% test accuracy and 0.1175 loss.
 
 Using the ReLU activation function provides a performance boost for the model, with 97.31% accuracy on the test set and 0.1050 loss.
+
+## Data
+
+train.csv: https://drive.google.com/file/d/1TN1lyR2JYPvgVdPf18kAjx_PCC2EpxKx/view?usp=sharing
+
+test.csv: https://drive.google.com/file/d/1_fnG8_AvwEK_DsIFywCeRwpWPTMILi9I/view?usp=sharing
