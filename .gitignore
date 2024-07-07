@@ -1,5 +1,5 @@
 __pycache__
 
-neural_networks/mnist_data/test.csv
-neural_networks/mnist_data/train.csv
+neural_networks/mnist_data/
 
+cnn/cifar10_data/

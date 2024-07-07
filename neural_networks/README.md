@@ -25,6 +25,4 @@ Using the ReLU activation function provides a performance boost for the model, w
 
 ## Data
 
-train.csv: https://drive.google.com/file/d/1TN1lyR2JYPvgVdPf18kAjx_PCC2EpxKx/view?usp=sharing
-
-test.csv: https://drive.google.com/file/d/1_fnG8_AvwEK_DsIFywCeRwpWPTMILi9I/view?usp=sharing
+https://drive.google.com/drive/folders/1G00Mf1NqSyX3IfEKj_3pFtl-CLOCpaQy?usp=sharing
